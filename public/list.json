@@ -1,0 +1,102 @@
+
+
+[
+  {
+    "id": 1,
+    "name": "Shrimad Bhagwat Geeta",
+    "title": "Spiritual Text",
+    "price": 0.00,
+    "category": "free",
+    "author": "Gita Press",
+    "image": "http://www.bhagavad-gita.us/wp-content/uploads/2012/09/gita-104.jpg"
+  },
+  {
+    
+    
+      "id": 2,
+      "name": "Raja Yoga",
+      "title": "Philosophy & Spirituality",
+      "price": 0.00,
+      "category": "free",
+      "author": "Swami Vivekananda",
+      "image": "https://rukminim1.flixcart.com/image/1408/1408/j9d3bm80/book/3/6/5/raja-yoga-original-imaeywvg8zhfasxv.jpeg?q=90"
+    
+
+
+  },
+  {
+    "id": 3,
+    "name": "Wings of Fire",
+    "title": "Autobiography",
+    "price": 0.00,
+    "category": "free",
+    "author": "A.P.J. Abdul Kalam - Universities Press",
+    "image": "https://th.bing.com/th/id/OIP.eFRqmOE3034xb_RKiYfdOwAAAA?rs=1&pid=ImgDetMain"
+  },
+  {
+    "id": 4,
+    "name": "Gitanjali",
+    "title": "Poetry",
+    "price": 0.00,
+    "category": "free",
+    "author": "Rabindranath Tagore - Macmillan Publishers",
+    "image": "https://th.bing.com/th/id/OIP.VTBq8_0SsKhX6IP3AD8DgwHaJ4?rs=1&pid=ImgDetMain"
+  },
+  {
+
+      "id": 5,
+      "name": "The Indian Struggle",
+      "title": "History & Freedom Movement",
+      "price": 0.00,
+      "category": "free",
+      "author": "Subhas Chandra Bose",
+      "image": "https://cdn.exoticindia.com/images/products/original/books/naf869.jpg"
+  
+
+  },
+  {
+    "id": 6,
+    "name": "The Guide",
+    "title": "Fiction",
+    "price": 0.00,
+    "category": "free",
+    "author": "R.K. Narayan - Indian Thought Publications",
+    "image": "https://pictures.abebooks.com/inventory/md/md30968017869.jpg"
+  },
+  {
+    "id": 7,
+    "name": "A Suitable Boy",
+    "title": "Fiction",
+    "price": 0.00,
+    "category": "free",
+    "author": "Vikram Seth - HarperCollins",
+    "image": "https://images.thenile.io/r1000/9781474618793.jpg"
+  },
+  {
+    "id": 8,
+    "name": "The God of Small Things",
+    "title": "Fiction",
+    "price": 0.00,
+    "category": "free",
+    "author": "Arundhati Roy - Penguin Books",
+    "image": "https://i.cbc.ca/1.4223910.1501161009!/fileImage/httpImage/image.png_gen/derivatives/original_780/book-cover-the-god-of-small-things-by-arundhati-roy.png"
+  },
+  {
+    "id": 9,
+    "name": "Midnight's Children",
+    "title": "Fiction",
+    "price": 0.00,
+    "category": "free",
+    "author": "Salman Rushdie - Jonathan Cape",
+    "image": "https://stat1.bollywoodhungama.in/wp-content/uploads/2016/03/Midnights-Children.jpg"
+  },
+  {
+    "id": 10,
+    "name": "The White Tiger",
+    "title": "Fiction",
+    "price": 0.00,
+    "category": "free",
+    "author": "Aravind Adiga - HarperCollins",
+    "image": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781416562733/the-white-tiger-9781416562733_hr.jpg"
+  }
+]
